@@ -1,0 +1,4 @@
+﻿  Sphere.cpp
+c:\users\alan9\documents\cs432\hw3\sphere.cpp(28): error C2084: function 'Sphere::Sphere(void)' already has a body
+  c:\users\alan9\documents\cs432\hw3\sphere.cpp(18): note: see previous definition of '{ctor}'
+c:\users\alan9\documents\cs432\hw3\sphere.cpp(142): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data

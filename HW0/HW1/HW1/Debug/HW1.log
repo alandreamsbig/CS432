@@ -1,0 +1,6 @@
+﻿  helloWorld432.cpp
+c:\users\alan9\documents\cs432\a0_code\a0_code\helloworld432.cpp(37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\alan9\documents\cs432\a0_code\a0_code\helloworld432.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\alan9\documents\cs432\a0_code\a0_code\helloworld432.cpp(112): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  HW1.vcxproj -> C:\Users\alan9\Documents\CS432\HW0\HW1\Debug\HW1.exe
+  HW1.vcxproj -> C:\Users\alan9\Documents\CS432\HW0\HW1\Debug\HW1.pdb (Partial PDB)

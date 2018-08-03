@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\alan9\documents\cs432\hw5\main.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  cube.cpp
+  Sphere.cpp
+c:\users\alan9\documents\cs432\hw5\sphere.cpp(214): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+  Drawable.cpp
+  Camera.cpp
+c:\users\alan9\documents\cs432\hw5\camera.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan9\documents\cs432\hw5\camera.cpp(72): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan9\documents\cs432\hw5\camera.cpp(84): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan9\documents\cs432\hw5\camera.cpp(96): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan9\documents\cs432\hw5\camera.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan9\documents\cs432\hw5\camera.cpp(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  HW5.vcxproj -> C:\Users\alan9\Documents\CS432\HW5\HW5\Debug\HW5.exe
+  HW5.vcxproj -> C:\Users\alan9\Documents\CS432\HW5\HW5\Debug\HW5.pdb (Partial PDB)

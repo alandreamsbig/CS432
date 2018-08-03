@@ -1,0 +1,35 @@
+﻿  Sample02_3DGraphcis.cpp
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\light.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\drawable.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sphere.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sphere.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sphere.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sphere.h(46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\cube.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\cube.h(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\plane.h(27): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(103): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(107): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(114): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(154): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(155): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(211): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(212): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(213): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(224): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(224): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(225): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(225): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(231): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\joe-laptop\documents\visual studio 2015\projects\cs432_final\cs432_final\sample02_3dgraphcis.cpp(342): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+  CS432_Final.vcxproj -> C:\Users\Joe-Laptop\Documents\Visual Studio 2015\Projects\CS432_Final\Debug\CS432_Final.exe
+  CS432_Final.vcxproj -> C:\Users\Joe-Laptop\Documents\Visual Studio 2015\Projects\CS432_Final\Debug\CS432_Final.pdb (Full PDB)

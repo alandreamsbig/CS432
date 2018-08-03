@@ -1,0 +1,25 @@
+﻿  Triangle.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Triangle.cpp': No such file or directory
+  Sphere.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Sphere.cpp': No such file or directory
+  Skybox.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Skybox.cpp': No such file or directory
+  Sample02_3DGraphcis.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Sample02_3DGraphcis.cpp': No such file or directory
+  Roof.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Roof.cpp': No such file or directory
+  Plane.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Plane.cpp': No such file or directory
+  Light.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Light.cpp': No such file or directory
+  InitShader.cpp
+c1xx : fatal error C1083: Cannot open source file: 'InitShader.cpp': No such file or directory
+  Drawable.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Drawable.cpp': No such file or directory
+  CubeMap.cpp
+c1xx : fatal error C1083: Cannot open source file: 'CubeMap.cpp': No such file or directory
+  Cube.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Cube.cpp': No such file or directory
+  Camera.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Camera.cpp': No such file or directory
+  Generating Code...

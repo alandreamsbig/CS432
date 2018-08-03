@@ -1,0 +1,12 @@
+﻿  Sample02_3DGraphcis.cpp
+c:\users\alan9\documents\cs432\hw4\sample02_3dgraphcis.cpp(14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Camera.cpp
+c:\users\alan9\documents\cs432\hw4\camera.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan9\documents\cs432\hw4\camera.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan9\documents\cs432\hw4\camera.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan9\documents\cs432\hw4\camera.cpp(79): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan9\documents\cs432\hw4\camera.cpp(91): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan9\documents\cs432\hw4\camera.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  HW4.vcxproj -> C:\Users\alan9\Documents\CS432\HW4\HW4\Debug\HW4.exe
+  HW4.vcxproj -> C:\Users\alan9\Documents\CS432\HW4\HW4\Debug\HW4.pdb (Partial PDB)
